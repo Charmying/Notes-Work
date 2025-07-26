@@ -83,3 +83,5 @@
 `2025-07-06` [內聚 (Cohesion)](https://github.com/Charmying/Notes-Work/issues/39)  
 
 `2025-07-06` [耦合 (Coupling)](https://github.com/Charmying/Notes-Work/issues/40)  
+
+`2025-07-27` [代理伺服器 (Proxy Server)](https://github.com/Charmying/Notes-Work/issues/41)  
