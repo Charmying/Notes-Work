@@ -85,3 +85,5 @@
 `2025-07-06` [耦合 (Coupling)](https://github.com/Charmying/Notes-Work/issues/40)  
 
 `2025-07-27` [代理伺服器 (Proxy Server)](https://github.com/Charmying/Notes-Work/issues/41)  
+
+`2025-10-17` [App 架構分析](https://github.com/Charmying/Notes-Work/issues/42)  
