@@ -87,3 +87,5 @@
 `2025-07-27` [代理伺服器 (Proxy Server)](https://github.com/Charmying/Notes-Work/issues/41)  
 
 `2025-10-17` [App 架構分析](https://github.com/Charmying/Notes-Work/issues/42)  
+
+`2025-10-18` [MVP (最小可行產品)](https://github.com/Charmying/Notes-Work/issues/43)  
