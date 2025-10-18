@@ -89,3 +89,5 @@
 `2025-10-17` [App 架構分析](https://github.com/Charmying/Notes-Work/issues/42)
 
 `2025-10-18` [MVP (最小可行產品)](https://github.com/Charmying/Notes-Work/issues/43)
+
+`2025-10-19` [Cordova](https://github.com/Charmying/Notes-Work/issues/44)
