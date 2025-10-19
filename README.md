@@ -91,3 +91,5 @@
 `2025-10-18` [MVP (最小可行產品)](https://github.com/Charmying/Notes-Work/issues/43)
 
 `2025-10-19` [Cordova](https://github.com/Charmying/Notes-Work/issues/44)
+
+`2025-10-20` [WebView](https://github.com/Charmying/Notes-Work/issues/45)
