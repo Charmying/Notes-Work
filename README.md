@@ -93,3 +93,5 @@
 `2025-10-19` [Cordova](https://github.com/Charmying/Notes-Work/issues/44)
 
 `2025-10-20` [WebView](https://github.com/Charmying/Notes-Work/issues/45)
+
+`2025-10-21` [GoTrust IdemKey](https://github.com/Charmying/Notes-Work/issues/46)
