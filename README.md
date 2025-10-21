@@ -95,3 +95,5 @@
 `2025-10-20` [WebView](https://github.com/Charmying/Notes-Work/issues/45)
 
 `2025-10-21` [GoTrust IdemKey](https://github.com/Charmying/Notes-Work/issues/46)
+
+`2025-10-22` [NFC](https://github.com/Charmying/Notes-Work/issues/47)
