@@ -97,3 +97,5 @@
 `2025-10-21` [GoTrust IdemKey](https://github.com/Charmying/Notes-Work/issues/46)
 
 `2025-10-22` [NFC](https://github.com/Charmying/Notes-Work/issues/47)
+
+`2025-10-23` [中間人攻擊 (MITM)](https://github.com/Charmying/Notes-Work/issues/48)
