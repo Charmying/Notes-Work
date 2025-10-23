@@ -100,4 +100,4 @@
 
 `2025-10-23` [中間人攻擊 (MITM)](https://github.com/Charmying/Notes-Work/issues/48)
 
-`2025-10-23` [憑證綁定 (Certificate Pinning)](https://github.com/Charmying/Notes-Work/issues/49)
+`2025-10-24` [憑證綁定 (Certificate Pinning)](https://github.com/Charmying/Notes-Work/issues/49)
