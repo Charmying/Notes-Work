@@ -99,3 +99,5 @@
 `2025-10-22` [NFC](https://github.com/Charmying/Notes-Work/issues/47)
 
 `2025-10-23` [中間人攻擊 (MITM)](https://github.com/Charmying/Notes-Work/issues/48)
+
+`2025-10-23` [憑證綁定 (Certificate Pinning)](https://github.com/Charmying/Notes-Work/issues/49)
