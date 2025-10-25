@@ -103,3 +103,5 @@
 `2025-10-24` [憑證綁定 (Certificate Pinning)](https://github.com/Charmying/Notes-Work/issues/49)
 
 `2025-10-25` [SHA-256](https://github.com/Charmying/Notes-Work/issues/50)
+
+`2025-10-26` [FIDO2](https://github.com/Charmying/Notes-Work/issues/51)
