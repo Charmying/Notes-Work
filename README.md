@@ -107,3 +107,5 @@
 `2025-10-26` [FIDO2](https://github.com/Charmying/Notes-Work/issues/51)
 
 `2025-10-27` [安全縱深防禦 (Defense in Depth)](https://github.com/Charmying/Notes-Work/issues/52)
+
+`2025-10-28` [Session Key](https://github.com/Charmying/Notes-Work/issues/53)
