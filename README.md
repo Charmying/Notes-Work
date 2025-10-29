@@ -111,3 +111,5 @@
 `2025-10-28` [Session Key](https://github.com/Charmying/Notes-Work/issues/53)
 
 `2025-10-29` [App Crash](https://github.com/Charmying/Notes-Work/issues/54)
+
+`2025-10-30` [FCM (Firebase Cloud Messaging)](https://github.com/Charmying/Notes-Work/issues/55)
