@@ -113,3 +113,5 @@
 `2025-10-29` [App Crash](https://github.com/Charmying/Notes-Work/issues/54)
 
 `2025-10-30` [FCM (Firebase Cloud Messaging)](https://github.com/Charmying/Notes-Work/issues/55)
+
+`2025-10-31` [APNs (Apple Push Notification Service)](https://github.com/Charmying/Notes-Work/issues/56)
