@@ -123,3 +123,5 @@
 `2025-12-31` [Jaeger](https://github.com/Charmying/Notes-Work/issues/59)
 
 `2025-12-31` [JBoss](https://github.com/Charmying/Notes-Work/issues/60)
+
+`2025-12-31` [Redis](https://github.com/Charmying/Notes-Work/issues/61)
