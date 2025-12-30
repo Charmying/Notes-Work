@@ -121,3 +121,5 @@
 `2025-12-31` [Promise.race](https://github.com/Charmying/Notes-Work/issues/58)
 
 `2025-12-31` [Jaeger](https://github.com/Charmying/Notes-Work/issues/59)
+
+`2025-12-31` [JBoss](https://github.com/Charmying/Notes-Work/issues/60)
